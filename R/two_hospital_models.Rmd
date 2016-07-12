@@ -1,7 +1,5 @@
 ---
-title: "Two hospital model"
-output: html_document
-
+title: "Two hospital models"
 ---
 
 ```{r setup, include=FALSE}
@@ -28,7 +26,3 @@ map.2b
 map.2c
 ```
 
-## All two hospital models
-```{r, echo=FALSE}
-map.2all
-```

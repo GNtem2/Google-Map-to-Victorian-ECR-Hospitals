@@ -1,0 +1,19 @@
+---
+title: "Four hospital model"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(leaflet)
+load("leaflet_maps.Rda")
+```
+
+
+## Model 4 - Royal Melbourne Hospital + Monash Medical Centre + Alfred Hospital + Austin Hospital
+
+
+```{r, echo=FALSE}
+map.4
+```
+
+
