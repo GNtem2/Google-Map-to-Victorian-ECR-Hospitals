@@ -9,7 +9,7 @@ load("leaflet_maps.Rda")
 ```
 
 
-## Model 4 - Royal Melbourne Hospital + Monash Medical Centre + Alfred Hospital + Austin Hospital
+## Model 4 - Royal Melbourne Hospital + Monash Medical Centre + <br/>Alfred Hospital + Austin Hospital
 
 
 ```{r, echo=FALSE}

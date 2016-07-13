@@ -1,0 +1,19 @@
+---
+title: "All models"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(leaflet)
+load("leaflet_maps.Rda")
+```
+
+
+## All models on one map
+
+
+```{r, echo=FALSE}
+map.all
+```
+
+
