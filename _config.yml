@@ -1,0 +1,9 @@
+name: Interactive ECR stroke maps for Melbourne
+markdown: kramdown
+
+kramdown:
+  input: GFM
+  hard_wrap: false
+
+baseurl: /Google-Map-to-Victorian-ECR-Hospitals
+highlighter: rouge

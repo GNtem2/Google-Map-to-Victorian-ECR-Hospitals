@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset=utf-8 />
+  <title> {% if page.title %} {{ page.title }} | {% endif %} ECR service study</title>
+  <link href='//fonts.googleapis.com/css?family=Roboto+Slab:300,400|Roboto:300,400,700,400italic,700italic,500' rel=stylesheet type='text/css' media=all>
+
+  <link rel="stylesheet" href="{{ site.baseurl}}/css/style.css" />
+
+</head>
+<body>
+ 
+  <div id="main">
+ 
+    <header>
+      <h1> ECR service provision in Melbourne, Australia </h1>
+    </header>
+ 
+    <nav role="navigation">
+      <ul>
+        <li><a href="{{ site.baseurl }}{{ post.url }}/">Home</a></li>
+        <li><a href="{{ site.baseurl }}{{ post.url }}/using">Instructions</a></li>
+        <li><a href="{{ site.baseurl }}{{ post.url }}/R/two_hospital_models.html">Two hospital models</a></li>
+        <li><a href="{{ site.baseurl }}{{ post.url }}/R/three_hospital_models.html">Three hospital models</a></li>
+        <li><a href="{{ site.baseurl }}{{ post.url }}/R/four_hospital_model.html">Four hospital models</a></li>
+        <li><a href="{{ site.baseurl }}{{ post.url }}/R/all_models.html">All models</a></li>
+        <li><a href="{{ site.baseurl }}{{ post.url }}/referencing">Citing</a></li>
+        <li><a href="{{ site.baseurl }}{{ post.url }}/contact">Contact</a></li>
+      </ul>
+    </nav>
+ <p>
+    {{ content }}
+ 
+    <footer>
+      <p>@copy; Professor Thanh G Phan, Monash University </p>
+    </footer>
+ 
+  </div>
+</body>
+</html>

@@ -1,0 +1,32 @@
+Seems tricky to get all the pieces to fit together, so this is a bit
+hacky.
+
+I'm using Rmd to create pages combining maps and text. Hoewever
+I've done this using html fragments so that github can stick headers
+and styles on.
+
+This means there are some steps that tack the github style headers,
+plus javascript stuff.
+
+The markdown needs to be creating non selfcontainted html, because
+pandoc doesn't know how to fetch the fonts. However it also doesn't
+create the <script > entries.
+
+Find out what the script entries should be by running:
+
+htmlwidgets::saveWidget(map.2all, "m.html", selfcontained=FALSE)
+
+There could be issues with versions of leaflet stuff, so watch out.
+These <script> entries go in _layouts/default.html
+
+
+Will use tack the front matter on using bash or R.
+
+## The html files are created using 
+
+make
+
+which calls R using the compile.R script.
+
+Changes to the Rmd files will require a recompile and commiting the changed html files to github
+(as well as the changed Rmd files)

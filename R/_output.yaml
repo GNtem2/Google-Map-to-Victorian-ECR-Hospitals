@@ -1,0 +1,4 @@
+html_fragment:
+  self_contained: false
+  lib_dir: libs
+  css: ../css/style.css

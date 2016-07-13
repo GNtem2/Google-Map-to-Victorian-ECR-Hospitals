@@ -1,0 +1,15 @@
+---
+title: "Two hospital models displayed on a single map"
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(leaflet)
+load("leaflet_maps.Rda")
+```
+
+## All two hospital models
+```{r, echo=FALSE}
+map.2all
+```

@@ -1,0 +1,28 @@
+---
+title: "Two hospital models"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(leaflet)
+load("leaflet_maps.Rda")
+```
+
+
+## Model 2a - Royal Melbourne Hospital + Monash Medical Centre
+
+
+```{r, echo=FALSE}
+map.2a
+```
+
+## Model 2b - Royal Melbourne Hospital + Alfred Hospital
+```{r, echo=FALSE}
+map.2b
+```
+
+## Model 2b - Royal Melbourne Hospital + Austin Hospital
+```{r, echo=FALSE}
+map.2c
+```
+
