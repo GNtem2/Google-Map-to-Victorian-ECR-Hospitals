@@ -10,7 +10,7 @@ header <- readLines("_includes/before_body.html")
 a <- readLines(f)
 footer <- readLines("_includes/after_body.html")
 
-a <- c(header, a, footer)
+a <- c(header, a)
 writeLines(a, f)
 
 
