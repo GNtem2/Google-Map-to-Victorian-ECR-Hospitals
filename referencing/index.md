@@ -10,7 +10,7 @@ title: ECR service modelling citation
 This work is described in the following publication:
 
 
-[Googling Service Boundaries for Endovascular CLot Retrieval Hub Hospitals in a Metropolitan Setting. Proof-of-Concept Study](http://stroke.ahajournals.org/content/early/2017/03/29/STROKEAHA.116.015323)
+[Googling Service Boundaries for Endovascular Clot Retrieval Hub Hospitals in a Metropolitan Setting. Proof-of-Concept Study](http://stroke.ahajournals.org/content/early/2017/03/29/STROKEAHA.116.015323)
 
 ## Citation links
 
