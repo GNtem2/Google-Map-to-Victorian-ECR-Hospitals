@@ -14,7 +14,7 @@ This work is described in the following publication:
 
 ## Citation links
 
-[Citing - Google Scholar](https://scholar.google.com.au/scholar?hl=en&q=Googling+Service+Boundaries+for+Endovascular+Clot+Retrieval+Hub+Hospitals+in+a+Metropolitan+Setting&btnG=&as_sdt=1%2C5&as_sdtp=#)
+[Google Scholar](https://scholar.google.com.au/scholar?hl=en&q=Googling+Service+Boundaries+for+Endovascular+Clot+Retrieval+Hub+Hospitals+in+a+Metropolitan+Setting&btnG=&as_sdt=1%2C5&as_sdtp=#)
 
 
 [Endnote citation](https://scholar.googleusercontent.com/scholar.enw?q=info:wGoLJV0dMWkJ:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAWOLlKpzHMHzeN_bddhOdnGHDAMzWEX5b&scisf=3&ct=citation&cd=-1&hl=en)
